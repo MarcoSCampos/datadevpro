@@ -6,8 +6,8 @@ serverR and uiR files
 
 Inputs: Weight and height body  
 Select: the measuring system english or international  
-select: the gender  
-press: Calculate  
+Select: the gender  
+Press: Calculate  
 
 Outputs: Your ideal body weight BMI  
          Your body mass index BMI  
