@@ -4,3 +4,14 @@ Repository for JHU Coursera Developing Data Products
 Shiny Application 
 Ideal Body Weight IBW and BMI Body Mass Index Calculator  
 serverR and uiR files
+
+Inputs: Weight and height body  
+Select: the measuring system english or international  
+select: the gender  
+press: Calculate  
+
+Outputs: Your ideal body weight BMI  
+         Your body mass index BMI
+         Your overweight classification
+         The discease risk related to a normal weight people
+         
